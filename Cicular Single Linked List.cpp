@@ -1,4 +1,5 @@
-﻿#include<iostream>
+//اذا مررت من هنا فادعوا الله ان ييسر لي امري ويصلح لي شاني
+#include<iostream>
 using namespace std;
 struct node {
 	int data;
